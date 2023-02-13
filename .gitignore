@@ -1,0 +1,4 @@
+# OS generated files #
+*.os
+# Sensitive data
+*.txt
